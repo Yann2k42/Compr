@@ -1,0 +1,52 @@
+/*--general--*/
+body{
+	     background-color: #EAE2DD;
+}
+
+.lead{
+	     color: rgba(255, 000, 000, 0.4);	     
+}
+
+h2{
+	  color: black ;
+      opacity: 0.5;
+	  text-align: center;
+	  line-height: 70px
+}
+
+h1{
+	text-align: left;
+}
+
+a{
+	text-decoration: none;
+}
+
+.yann{
+	      text-indent: 100px;	     
+}
+
+.espace {
+   lettre-spacing: 3px;
+   word-spacing: 7px;
+   line-height: 35px;
+}
+.jamal{
+	       background-color: #EAE2DD;
+	       text-align: center;
+	       border: 5px solid #F00;
+           border-radius: 60px 60px 140px 140px;
+           margin: 30px 60px 30px 60px;
+}
+
+.boss{
+	       background-color:#EAE2DD;
+	        border: 5px double red;
+}
+
+.p, .p1{
+	display: inline;
+	border: 1px solid #000;
+	border-radius: 20px 60px 20px 60px;
+	padding: 10px 10px 10px 10px;	
+}
